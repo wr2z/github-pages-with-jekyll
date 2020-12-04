@@ -1,5 +1,5 @@
 ---
-title: First Entry
+title: "First Entry"
 date: 2020-12-04
 ---
 
