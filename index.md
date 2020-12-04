@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hi everyone! This is my home page!
+
+![Welcome image](https://i.ytimg.com/vi/JilHZ_DdBYg/maxresdefault.jpg)
